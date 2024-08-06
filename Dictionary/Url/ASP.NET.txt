@@ -1,0 +1,8 @@
+swagger
+swagger/index.html
+weatherforecast
+swagger/v1/swagger.json
+swagger.json
+v1
+v1/swagger.json
+index.html
