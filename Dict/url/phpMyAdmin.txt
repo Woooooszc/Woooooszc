@@ -1,0 +1,8 @@
+readme
+changelog
+Change
+changelog.php  
+Documetation.html 
+Documetation.txt 
+translators.html
+doc/html/index.html
